@@ -1,0 +1,3 @@
+Extract these zipped file, and store all .txt files in this particular folder. The .txt files should be in this particular path:
+
+./input/data/processed_cloud_coverage/2015/*.txt
